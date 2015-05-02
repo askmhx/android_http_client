@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fwk</string>
+    <string name="cookie_test">CookieTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_http_btn">发送HttpWithCookie</string>
+    <string name="get_http_btn">获取HttpCookie</string>
+</resources>
